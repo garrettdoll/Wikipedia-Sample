@@ -1,13 +1,16 @@
 /* 
+
 Color Palette: 
 #F0F0D8 Primary: light muave green
 #967C52 Secondary: darker brown
 #CFCFCF Tertiary: light gray
+
 */
 
-body{
-	background: url("../img/bg.png");
-	}
+body {
+        background: url("../img/bg.png");
+        font-family: 'Allerta', sans-serif;
+}
 
 header {
         
